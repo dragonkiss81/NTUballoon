@@ -6,8 +6,11 @@
  * Based on Bootstrap
 */
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+
+
+
 html {
-  font-family: sans-serif;
+  font-family: Microsoft YaHei,'宋體' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
