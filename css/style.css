@@ -4452,7 +4452,7 @@ body.vjs-full-window {
   }
 }
 footer {
-  background-color: #edeff1;
+  background-color: #34495e;
   color: #bac1c8;
   font-size: 15px;
   padding: 0;
@@ -4469,13 +4469,13 @@ footer p {
 .footer-title {
   margin: 0 0 22px;
   padding-top: 21px;
-  font-size: 24px;
+  font-size: 14px;
   line-height: 40px;
 }
 .footer-brand {
   display: block;
   margin-bottom: 26px;
-  width: 220px;
+  width: 0px;
 }
 .footer-brand img {
   width: 216px;
@@ -4483,8 +4483,9 @@ footer p {
 .footer-banner {
   background-color: #34495e;
   color: #fff;
-  margin-left: 42px;
-  min-height: 316px;
+  text-align:center;
+  margin-left: 0px;
+  min-height: 120px;
   padding: 0 30px 30px;
 }
 .footer-banner .footer-title {
